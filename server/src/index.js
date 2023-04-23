@@ -2,7 +2,7 @@ import app from "./app.js";
 import sequelize from "./database/database.js";
 import './models/Task.js'
 
-const PORT = 4000
+const PORT = 5000
 
 const main = async () => {
     try {
